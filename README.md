@@ -1,0 +1,15 @@
+# 今回学んだこと
+- ls
+- pwd
+- cd
+- mkdir
+- touch
+- &&
+- cp
+- mv
+- rm
+- *
+- cat
+- >
+- >>
+- vi
